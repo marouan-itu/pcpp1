@@ -1,5 +1,4 @@
 # Concurrency
-#### by Jørgen Staunstrup, jst@itu.dk, version Aug 17, 2021
 
 The note starts by taking a helicopter view on concurrency where we ignore performance details.
 Instead the focus is more qualitative identifying a few core concepts that directly reflect
